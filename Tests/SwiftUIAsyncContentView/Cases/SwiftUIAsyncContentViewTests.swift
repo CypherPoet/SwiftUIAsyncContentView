@@ -1,7 +1,7 @@
 import XCTest
-@testable import MyLibraryName
+@testable import SwiftUIAsyncContentView
 
-final class MyLibraryNameTests: XCTestCase {
+final class SwiftUIAsyncContentViewTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct

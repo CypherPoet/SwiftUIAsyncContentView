@@ -1,3 +1,3 @@
-struct MyLibraryName {
+struct SwiftUIAsyncContentView {
     var text = "Hello, World!"
 }
