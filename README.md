@@ -52,7 +52,7 @@ let package = Package(
         .package(
             name: "SwiftUIAsyncContentView",
             url: "https://github.com/CypherPoet/SwiftUIAsyncContentView",
-            .exact("0.0.1")
+            .upToNextMinor(from: "0.1.0")
         ),
     ],
     //...
